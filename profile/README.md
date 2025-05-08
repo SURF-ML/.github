@@ -9,8 +9,17 @@ More information about SURF and AI/ML
 
 
 ## Projects
-The projects including codebase can be found in the repository tab [here](https://github.com/orgs/SURF-ML/repositories)
+Besides the official projects below, there are additional repositories to support researchers in machine learning on HPC [here](https://github.com/orgs/SURF-ML/repositories)
 
+### Active projects
+
+| Project      | Official website | Code |
+|--------------|------------------|-------------|
+| GPT-NL       | [Website](https://www.surf.nl/en/themes/artificial-intelligence/gpt-nl) | TBA |
+| Hereditary   | [Website](https://hereditary-project.eu/) | TBA |
+| OpenEuroLLM  | [Website](https://openeurollm.eu/) |  [GitHub](https://github.com/OpenEuroLLM) |
+
+Finished projects:
 
 ## Contact Us
 
